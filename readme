@@ -1,0 +1,15 @@
+VC Product Gallery PLugin Readme
+
+Version: 1.0
+
+Created By: David Hinojosa
+
+Description: This plugin creates a responsive product gallery in Visual Composer utilizing shortcodes, classes and the gallery widget. Place [image-tab-function] on the page needed and add classes for the image galleries: main image "main-post-image" and "thumbnail-images" for the thumbnail gallery (Be sure to set to gallery type: image-grid, image size: thumbnail & on click action: none).
+
+Steps:
+
+1) Place a shortcode of [image-tab-function] in a simple text widget somewhere on the page.
+
+2) Place an image gallery for the main image and give it a class of "main-post-image"
+
+3) Place an image gallery for the thumbnail gallery and set the gallery type to image-grid & image size to thumbnail. Be sure to set the click action to none.
