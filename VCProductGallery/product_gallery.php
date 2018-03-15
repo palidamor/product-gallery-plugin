@@ -12,7 +12,7 @@ Author URI:http://pixelpriority.com
 
 Version:1.0
 
-Description:This plugin creates a responsive product gallery in Visual Composer utilizing shortcodes, classes and the gallery widget. Place [image-tab-function] on the page needed and add classes for the image galleries: main image "main-post-image" and "thumbnail-images" for the thumbnail gallery (Be sure to set to gallery type: image-grid, image ssize: thumbnail & on click action: none).
+Description:This plugin creates a responsive product gallery in Visual Composer utilizing shortcodes, classes and the gallery widget. Place [image-tab-function] on the page needed and add classes for the image galleries: main image "main-post-image" and "thumbnail-images" for the thumbnail gallery (Be sure to set to gallery type: image-grid, image size: thumbnail & on click action: none).
 
 */
 
