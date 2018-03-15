@@ -26,6 +26,8 @@ $border=$temp_color;
 
 }
 
+ /*Plugin Title*/
+
 h2.plugin-title {
 
     font-size: 26px;
